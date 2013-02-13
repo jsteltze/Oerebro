@@ -1,2 +1,3 @@
-﻿[ ] Doodle-Umfrage zur Terminabstimmung erstellen
+﻿[X] Doodle-Umfrage zur Terminabstimmung erstellen
+    - Umfrage erstellt http://doodle.com/zawwy32h8h2mytcz
 [ ] Doodle-Umfrage zur Terminabstimmung kommunizieren
