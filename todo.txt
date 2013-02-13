@@ -1,0 +1,2 @@
+﻿[ ] Doodle-Umfrage zur Terminabstimmung erstellen
+[ ] Doodle-Umfrage zur Terminabstimmung kommunizieren
